@@ -427,14 +427,14 @@ const champArray = [
     },
     {
         name: "Kassadin",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 4,
+        qa: 7,
+        cal: 2,
+        lin: 6,
+        pas: 0,
+        cac: 2,
+        cam: 1,
+        bad: 9
     },
     {
         name: "Katarina",
@@ -472,13 +472,13 @@ const champArray = [
     {
         name: "Kha'Zix",
         ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
+        qa: 10,
+        cal: 3,
+        lin: 3,
         pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        cac: 0,
+        cam: 9,
+        bad: 2
     },
     {
         name: "Kindred",
@@ -494,13 +494,13 @@ const champArray = [
     {
         name: "Kled",
         ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        qa: 9,
+        cal: 8,
+        lin: 2,
+        pas: 1,
+        cac: 1,
+        cam: 8,
+        bad: 8
     },
     {
         name: "Kog'Maw",
