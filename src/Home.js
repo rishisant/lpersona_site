@@ -504,25 +504,25 @@ const champArray = [
     },
     {
         name: "Kog'Maw",
-        ss: 0,
-        qa: 3,
+        ss: 1,
+        qa: 8,
         cal: 6,
-        lin: 4,
+        lin: 9,
         pas: 2,
         cac: 5,
         cam: 8,
-        bad: 2
+        bad: 8
     },
     {
         name: "LeBlanc",
         ss: 0,
-        qa: 8,
+        qa: 9,
         cal: 6,
         lin: 4,
         pas: 2,
         cac: 5,
         cam: 3,
-        bad: 5
+        bad: 9
     },
     {
         name: "Lee Sin",
@@ -549,13 +549,13 @@ const champArray = [
     {
         name: "Lissandra",
         ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
+        qa: 9,
+        cal: 9,
+        lin: 6,
+        pas: 0,
+        cac: 2,
         cam: 3,
-        bad: 5
+        bad: 2
     },
     {
         name: "Lucian",
@@ -592,14 +592,14 @@ const champArray = [
     },
     {
         name: "Malphite",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 5,
+        qa: 5,
+        cal: 2,
+        lin: 0,
+        pas: 7,
+        cac: 1,
+        cam: 4,
+        bad: 3
     },
     {
         name: "Malzahar",
@@ -691,14 +691,14 @@ const champArray = [
     },
     {
         name: "Nautilus",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 7,
+        qa: 2,
+        cal: 1,
+        lin: 7,
+        pas: 9,
+        cac: 0,
+        cam: 1,
+        bad: 3
     },
     {
         name: "Nidalee",
