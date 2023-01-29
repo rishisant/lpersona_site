@@ -163,14 +163,14 @@ const champArray = [
     },
     {
         name: "Darius",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 0,
+        qa: 10,
+        cal: 2,
+        lin: 3,
+        pas: 1,
+        cac: 0,
+        cam: 8,
+        bad: 10
     },
     {
         name: "Dr. Mundo",
@@ -647,14 +647,14 @@ const champArray = [
     },
     {
         name: "Mordekaiser",
-        ss: 1,
+        ss: 4,
         qa: 8,
         cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        lin: 5,
+        pas: 1,
+        cac: 2,
+        cam: 9,
+        bad: 8
     },
     {
         name: "Morgana",
@@ -680,14 +680,14 @@ const champArray = [
     },
     {
         name: "Nasus",
-        ss: 10,
-        qa: 4,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 8,
+        qa: 1,
+        cal: 9,
+        lin: 8,
+        pas: 8,
+        cac: 2,
+        cam: 1,
+        bad: 1
     },
     {
         name: "Nautilus",
