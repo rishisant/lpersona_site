@@ -539,11 +539,11 @@ const champArray = [
         name: "Leona",
         ss: 2,
         qa: 3,
-        cal: 5,
+        cal: 1,
         lin: 4,
-        pas: 6,
-        cac: 8,
-        cam: 4,
+        pas: 10,
+        cac: 10,
+        cam: 2,
         bad: 1
     },
     {
@@ -572,11 +572,11 @@ const champArray = [
         name: "Lulu",
         ss: 2,
         qa: 3,
-        cal: 5,
+        cal: 2,
         lin: 4,
-        pas: 6,
-        cac: 8,
-        cam: 4,
+        pas: 10,
+        cac: 10,
+        cam: 2,
         bad: 1
     },
     {
@@ -1023,12 +1023,12 @@ const champArray = [
         name: "Taliyah",
         ss: 2,
         qa: 9,
-        cal: 8,
+        cal: 10,
         lin: 5,
         pas: 4,
-        cac: 3,
-        cam: 3,
-        bad: 5
+        cac: 2,
+        cam: 1,
+        bad: 1
     },
     {
         name: "Talon",
@@ -1087,14 +1087,14 @@ const champArray = [
     },
     {
         name: "Trundle",
-        ss: 5,
+        ss: 2,
         qa: 7,
         cal: 7,
         lin: 8,
         pas: 7,
-        cac: 9,
+        cac: 2,
         cam: 5,
-        bad: 9
+        bad: 8
     },
     {
         name: "Tryndamere",
