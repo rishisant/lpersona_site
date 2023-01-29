@@ -73,14 +73,14 @@ body {
 }
 
 .question {
-    font-size: 1.5em;
+    font-size: 2.25em;
     margin: 0;
     padding: 0;
     text-align: center;
 }
 
 .questionText {
-    font-size: 0.65em;
+    font-size: 1.25em;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -89,7 +89,7 @@ body {
 
 /* option is a button with onhover and a background as well as a stroke*/
 .option {
-    font-size: 0.5em;
+    font-size: 1em;
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 1em;
     padding: .65em;
@@ -110,10 +110,10 @@ body {
     display: none; /* init hidden */
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 1em;
-    padding: 1em;
+    padding: 0.5em;
     margin: 1em;
-    margin-top: 2em;
-    margin-bottom: 3em;
+    margin-top: 1.5em;
+    margin-bottom: 2.5em;
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
