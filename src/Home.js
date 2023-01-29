@@ -97,13 +97,13 @@ const champArray = [
     },
     {
         name: "Bard",
-        ss: 2,
-        qa: 3,
-        cal: 5,
-        lin: 4,
-        pas: 6,
-        cac: 8,
-        cam: 4,
+        ss: 6,
+        qa: 1,
+        cal: 8,
+        lin: 8,
+        pas: 9,
+        cac: 9,
+        cam: 2,
         bad: 1
     },
     {
@@ -317,13 +317,13 @@ const champArray = [
     },
     {
         name: "Janna",
-        ss: 2,
-        qa: 3,
-        cal: 5,
-        lin: 4,
-        pas: 6,
-        cac: 8,
-        cam: 4,
+        ss: 8,
+        qa: 1,
+        cal: 6,
+        lin: 6,
+        pas: 10,
+        cac: 9,
+        cam: 2,
         bad: 1
     },
     {
