@@ -2293,16 +2293,16 @@ const Home = () => {
                     <div id="spacer">SPACER</div>
                     <div className="champImageContainer">
                         <div className="champImage">
-                            <img id="img1" src={require("./res/img/icons/aatrox.png")}></img>
-                            <div id="cname1" className="champName">Aatrox</div>
+                            <img id="img1" src={require("./res/img/icons/NON.png")}></img>
+                            <div id="cname1" className="champName">N/A</div>
                         </div>
                         <div className="champImage">
-                            <img id="img2" src={require("./res/img/icons/ahri.png")}></img>
-                            <div id="cname2" className="champName">Ahri</div>
+                            <img id="img2" src={require("./res/img/icons/NON.png")}></img>
+                            <div id="cname2" className="champName">N/A</div>
                         </div>
                         <div className="champImage">
-                            <img id="img3" src={require("./res/img/icons/akali.png")}></img>
-                            <div id="cname3" className="champName">Akali</div>
+                            <img id="img3" src={require("./res/img/icons/NON.png")}></img>
+                            <div id="cname3" className="champName">N/A</div>
                         </div>
                     </div>
                 </div>
