@@ -27,7 +27,7 @@ body {
 
 /* Logo */
 .logo {
-    font-size: 10em;
+    font-size: 8em;
     background-image: url('https://thumbs.dreamstime.com/b/gold-background-golden-foil-decorative-texture-artwork-91823457.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
@@ -43,7 +43,7 @@ body {
 
 /* Subtitle */
 .subtitle {
-    font-size: 3.5em;
+    font-size: 2.5em;
     background-image: url('https://thumbs.dreamstime.com/b/gold-background-golden-foil-decorative-texture-artwork-91823457.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
@@ -65,7 +65,7 @@ body {
     padding: 1em;
     margin: 1em;
     margin-top: 7.5em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1em;
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
@@ -73,14 +73,14 @@ body {
 }
 
 .question {
-    font-size: 3em;
+    font-size: 1.5em;
     margin: 0;
     padding: 0;
     text-align: center;
 }
 
 .questionText {
-    font-size: 1.25em;
+    font-size: 0.65em;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -89,10 +89,10 @@ body {
 
 /* option is a button with onhover and a background as well as a stroke*/
 .option {
-    font-size: 1em;
+    font-size: 0.5em;
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 1em;
-    padding: .75em;
+    padding: .65em;
     margin: 1em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
