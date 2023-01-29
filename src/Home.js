@@ -187,12 +187,12 @@ const champArray = [
         name: "Ekko",
         ss: 1,
         qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        cal: 7,
+        lin: 2,
+        pas: 4,
+        cac: 8,
+        cam: 2,
+        bad: 8
     },
     {
         name: "Evelynn",
@@ -295,14 +295,14 @@ const champArray = [
     },
     {
         name: "Illaoi",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
+        ss: 4,
+        qa: 6,
+        cal: 2,
+        lin: 6,
         pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        cac: 0,
+        cam: 2,
+        bad: 7
     },
     {
         name: "Irelia",
@@ -339,14 +339,14 @@ const champArray = [
     },
     {
         name: "Jax",
-        ss: 1,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 3,
-        bad: 5
+        ss: 3,
+        qa: 10,
+        cal: 8,
+        lin: 3,
+        pas: 0,
+        cac: 2,
+        cam: 2,
+        bad: 10
     },
     {
         name: "Jayce",
