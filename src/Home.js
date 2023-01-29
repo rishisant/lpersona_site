@@ -405,13 +405,13 @@ const champArray = [
     },
     {
         name: "Karma",
-        ss: 2,
-        qa: 3,
-        cal: 5,
-        lin: 4,
-        pas: 6,
+        ss: 1,
+        qa: 1,
+        cal: 2,
+        lin: 8,
+        pas: 10,
         cac: 8,
-        cam: 4,
+        cam: 2,
         bad: 1
     },
     {
@@ -449,14 +449,14 @@ const champArray = [
     },
     {
         name: "Kayle",
-        ss: 2,
-        qa: 3,
-        cal: 5,
-        lin: 4,
+        ss: 8,
+        qa: 2,
+        cal: 2,
+        lin: 5,
         pas: 6,
-        cac: 8,
-        cam: 4,
-        bad: 1
+        cac: 2,
+        cam: 2,
+        bad: 2
     },
     {
         name: "Kennen",
@@ -482,14 +482,14 @@ const champArray = [
     },
     {
         name: "Kindred",
-        ss: 2,
-        qa: 3,
-        cal: 5,
-        lin: 4,
-        pas: 6,
-        cac: 8,
-        cam: 4,
-        bad: 1
+        ss: 1,
+        qa: 6,
+        cal: 2,
+        lin: 9,
+        pas: 7,
+        cac: 1,
+        cam: 5,
+        bad: 5
     },
     {
         name: "Kled",
@@ -625,14 +625,14 @@ const champArray = [
     },
     {
         name: "Master Yi",
-        ss: 3,
-        qa: 8,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
+        ss: 0,
+        qa: 10,
+        cal: 0,
+        lin: 10,
+        pas: 0,
+        cac: 0,
         cam: 1,
-        bad: 7
+        bad: 8
     },
     {
         name: "Miss Fortune",
@@ -647,14 +647,14 @@ const champArray = [
     },
     {
         name: "Mordekaiser",
-        ss: 4,
-        qa: 8,
+        ss: 8,
+        qa: 6,
         cal: 6,
         lin: 5,
         pas: 1,
         cac: 2,
-        cam: 9,
-        bad: 8
+        cam: 10,
+        bad: 10
     },
     {
         name: "Morgana",
@@ -680,7 +680,7 @@ const champArray = [
     },
     {
         name: "Nasus",
-        ss: 8,
+        ss: 10,
         qa: 1,
         cal: 9,
         lin: 8,
@@ -823,36 +823,36 @@ const champArray = [
     },
     {
         name: "Renekton",
-        ss: 1,
-        qa: 8,
+        ss: 0,
+        qa: 10,
         cal: 6,
         lin: 4,
         pas: 2,
         cac: 5,
-        cam: 3,
+        cam: 9,
         bad: 5
     },
     {
         name: "Rengar",
         ss: 0,
-        qa: 3,
+        qa: 10,
         cal: 6,
         lin: 4,
         pas: 2,
         cac: 5,
-        cam: 8,
+        cam: 9,
         bad: 2
     },
     {
         name: "Riven",
         ss: 3,
-        qa: 8,
+        qa: 10,
         cal: 6,
         lin: 4,
         pas: 2,
         cac: 5,
-        cam: 1,
-        bad: 7
+        cam: 5,
+        bad: 9
     },
     {
         name: "Rumble",
@@ -1154,24 +1154,24 @@ const champArray = [
     {
         name: "Varus",
         ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
-        bad: 2
+        qa: 10,
+        cal: 9,
+        lin: 7,
+        pas: 0,
+        cac: 0,
+        cam: 9,
+        bad: 5
     },
     {
         name: "Vayne",
         ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
-        bad: 2
+        qa: 10,
+        cal: 9,
+        lin: 7,
+        pas: 0,
+        cac: 0,
+        cam: 9,
+        bad: 5
     },
     {
         name: "Veigar",
@@ -1186,25 +1186,25 @@ const champArray = [
     },
     {
         name: "Vel'Koz",
-        ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
+        ss: 4,
+        qa: 4,
+        cal: 1,
+        lin: 3,
+        pas: 5,
+        cac: 0,
+        cam: 2,
         bad: 2
     },
     {
         name: "Vi",
-        ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
-        bad: 2
+        ss: 1,
+        qa: 8,
+        cal: 7,
+        lin: 6,
+        pas: 1,
+        cac: 3,
+        cam: 5,
+        bad: 3
     },
     {
         name: "Viktor",
@@ -1286,13 +1286,13 @@ const champArray = [
     {
         name: "Yasuo",
         ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
-        bad: 2
+        qa: 10,
+        cal: 10,
+        lin: 8,
+        pas: 0,
+        cac: 0,
+        cam: 6,
+        bad: 9
     },
     {
         name: "Yorick",
@@ -1307,58 +1307,58 @@ const champArray = [
     },
     {
         name: "Zac",
-        ss: 0,
+        ss: 9,
         qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
+        cal: 4,
+        lin: 9,
+        pas: 8,
+        cac: 2,
+        cam: 1,
         bad: 2
     },
     {
         name: "Zed",
         ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
+        qa: 10,
+        cal: 8,
+        lin: 2,
+        pas: 0,
+        cac: 0,
         cam: 8,
-        bad: 2
+        bad: 8
     },
     {
         name: "Ziggs",
         ss: 0,
-        qa: 3,
-        cal: 6,
-        lin: 4,
-        pas: 2,
-        cac: 5,
-        cam: 8,
-        bad: 2
+        qa: 8,
+        cal: 7,
+        lin: 8,
+        pas: 0,
+        cac: 2,
+        cam: 2,
+        bad: 9
     },
     {
         name: "Zilean",
-        ss: 0,
+        ss: 8,
         qa: 3,
         cal: 6,
-        lin: 4,
-        pas: 2,
+        lin: 9,
+        pas: 10,
         cac: 5,
         cam: 8,
         bad: 2
     },
     {
         name: "Zyra",
-        ss: 0,
-        qa: 3,
-        cal: 6,
+        ss: 5,
+        qa: 5,
+        cal: 4,
         lin: 4,
-        pas: 2,
+        pas: 10,
         cac: 5,
         cam: 8,
-        bad: 2
+        bad: 0
     }
 ];
 
