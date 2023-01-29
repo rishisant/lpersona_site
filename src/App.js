@@ -4,11 +4,14 @@ import Home from './Home';
 
 const App = () => {
   return (
+  <>
   <BrowserRouter>
         <Routes>
           <Route exact path="/" element={<Home />} />
         </Routes>
-    </BrowserRouter>  );
+    </BrowserRouter>
+  </>
+  );
 }
 
 export default App;
